@@ -1,0 +1,820 @@
+00083 Commercial Commercial	1
+00083 Film Feature	1
+00083 Music Video	1
+00083 Still Photography	1
+00083 Television Cable-episodic	2
+00083 Television Episodic series	3
+10000 Still Photography	1
+10001 Commercial Commercial	16
+10001 Commercial Industrial/Corporate	3
+10001 Commercial Promo	3
+10001 Film Feature	19
+10001 Film Short	1
+10001 Music Video Signed Artist	1
+10001 Still Photography	29
+10001 Student Student Film	1
+10001 Television	8
+10001 Television Cable-episodic	31
+10001 Television Cable-other	6
+10001 Television Episodic series	48
+10001 Television Made for TV/mini-series	1
+10001 Television News	1
+10001 Television Pilot	3
+10001 Television Special/Awards Show	6
+10001 Television Talk Show	5
+10001 Television Variety	4
+10001 Theater Theater	208
+10001 WEB	28
+10002 Commercial Commercial	37
+10002 Commercial Promo	4
+10002 Documentary	1
+10002 Film Feature	46
+10002 Film Short	4
+10002 Music Video Signed Artist	1
+10002 Still Photography	35
+10002 Student Student Film	2
+10002 Television Cable-episodic	22
+10002 Television Cable-other	2
+10002 Television Episodic series	50
+10002 Television Made for TV/mini-series	1
+10002 Television Pilot	6
+10002 Theater Theater	3
+10002 WEB	13
+10003 Commercial Commercial	27
+10003 Commercial Industrial/Corporate	2
+10003 Commercial Promo	4
+10003 Documentary	2
+10003 Film Feature	46
+10003 Film Short	2
+10003 Music Video Independent Artist	1
+10003 Music Video Signed Artist	2
+10003 Still Photography	19
+10003 Student	13
+10003 Student Student Film	14
+10003 Television	2
+10003 Television Cable-episodic	31
+10003 Television Cable-other	1
+10003 Television Episodic series	107
+10003 Television Game show	1
+10003 Television Made for TV/mini-series	1
+10003 Television News	1
+10003 Television Pilot	1
+10003 Television Reality	1
+10003 Television Special/Awards Show	2
+10003 Television Variety	1
+10003 Theater Theater	14
+10003 WEB	12
+10004 Commercial Commercial	5
+10004 Commercial PSA	1
+10004 Commercial Promo	1
+10004 Film Feature	8
+10004 Film Short	1
+10004 Music Video Independent Artist	1
+10004 Still Photography	7
+10004 Television	2
+10004 Television Cable-episodic	10
+10004 Television Episodic series	28
+10004 Television Pilot	2
+10004 WEB	8
+10005 Commercial Commercial	6
+10005 Commercial Promo	1
+10005 Film Feature	16
+10005 Still Photography	6
+10005 Television	2
+10005 Television Cable-episodic	6
+10005 Television Episodic series	42
+10005 Television Pilot	3
+10005 WEB	4
+10006 Commercial Commercial	2
+10006 Film Feature	8
+10006 Still Photography	1
+10006 Television Cable-episodic	2
+10006 Television Episodic series	8
+10006 Television Pilot	3
+10006 WEB	1
+10007 Commercial Commercial	6
+10007 Commercial Promo	1
+10007 Film Feature	15
+10007 Still Photography	5
+10007 Television	2
+10007 Television Cable-episodic	27
+10007 Television Episodic series	61
+10007 Television Made for TV/mini-series	4
+10007 Television Pilot	8
+10007 WEB	1
+10009 Commercial Commercial	2
+10009 Commercial Promo	2
+10009 Film Feature	14
+10009 Film Short	1
+10009 Music Video Signed Artist	1
+10009 Still Photography	3
+10009 Television Cable-episodic	17
+10009 Television Cable-other	3
+10009 Television Episodic series	30
+10009 Television Pilot	2
+10009 WEB	1
+10010 Commercial Commercial	17
+10010 Commercial Promo	4
+10010 Film Feature	18
+10010 Film Short	1
+10010 Still Photography	11
+10010 Television	3
+10010 Television Cable-episodic	19
+10010 Television Cable-other	2
+10010 Television Episodic series	56
+10010 Television Morning Show	1
+10010 Television Pilot	6
+10010 Television Reality	1
+10010 Television Special/Awards Show	1
+10010 Television Talk Show	1
+10010 Television Variety	2
+10010 Theater Theater	5
+10010 WEB	18
+10011 Commercial Commercial	35
+10011 Commercial Industrial/Corporate	1
+10011 Commercial Promo	7
+10011 Documentary	1
+10011 Film Feature	35
+10011 Film Short	3
+10011 Still Photography	38
+10011 Television	3
+10011 Television Cable-episodic	29
+10011 Television Cable-other	2
+10011 Television Episodic series	140
+10011 Television Made for TV/mini-series	1
+10011 Television News	1
+10011 Television Pilot	2
+10011 Television Reality	2
+10011 Television Talk Show	1
+10011 Television Variety	2
+10011 Theater Theater	14
+10011 WEB	27
+10012 Commercial Commercial	24
+10012 Commercial Promo	2
+10012 Commercial Short	1
+10012 Documentary	4
+10012 Film Feature	39
+10012 Film Short	5
+10012 Still Photography	40
+10012 Television	3
+10012 Television Cable-episodic	18
+10012 Television Cable-other	1
+10012 Television Episodic series	56
+10012 Television Pilot	2
+10012 Television Special/Awards Show	2
+10012 Television Talk Show	2
+10012 Theater Theater	1
+10012 WEB	25
+10013 Commercial Commercial	47
+10013 Commercial Industrial/Corporate	2
+10013 Commercial Promo	6
+10013 Commercial Short	1
+10013 Documentary	5
+10013 Film Feature	70
+10013 Film Short	5
+10013 Still Photography	77
+10013 Student Student Film	2
+10013 Television	6
+10013 Television Cable-episodic	58
+10013 Television Episodic series	135
+10013 Television Made for TV/mini-series	5
+10013 Television News	2
+10013 Television Pilot	7
+10013 Television Talk Show	1
+10013 Theater Theater	13
+10013 WEB	28
+10014 Commercial Commercial	24
+10014 Commercial Industrial/Corporate	1
+10014 Commercial Promo	7
+10014 Film Feature	30
+10014 Film Short	1
+10014 Still Photography	51
+10014 Television	3
+10014 Television Cable-episodic	30
+10014 Television Cable-other	1
+10014 Television Episodic series	68
+10014 Television Made for TV/mini-series	1
+10014 Television News	1
+10014 Television Pilot	3
+10014 Television Special/Awards Show	1
+10014 Television Talk Show	1
+10014 Television Variety	2
+10014 Theater Theater	1
+10014 WEB	45
+10016 Commercial Commercial	11
+10016 Commercial Promo	1
+10016 Documentary	1
+10016 Film Feature	32
+10016 Still Photography	12
+10016 Television	5
+10016 Television Cable-episodic	28
+10016 Television Cable-other	1
+10016 Television Episodic series	37
+10016 Television Pilot	4
+10016 Television Special/Awards Show	1
+10016 Television Variety	1
+10016 Theater Theater	2
+10016 WEB	4
+10017 Commercial Commercial	14
+10017 Commercial Industrial/Corporate	1
+10017 Commercial Promo	3
+10017 Documentary	2
+10017 Film Feature	33
+10017 Film Short	1
+10017 Music Video Signed Artist	1
+10017 Still Photography	8
+10017 Television	6
+10017 Television Cable-episodic	21
+10017 Television Episodic series	37
+10017 Television Made for TV/mini-series	6
+10017 Television News	1
+10017 Television Pilot	4
+10017 Television Reality	2
+10017 Television Special/Awards Show	1
+10017 Theater Theater	4
+10017 WEB	3
+10018 Commercial Commercial	17
+10018 Commercial Industrial/Corporate	3
+10018 Commercial PSA	3
+10018 Commercial Promo	4
+10018 Documentary	1
+10018 Film Feature	25
+10018 Film Short	4
+10018 Music Video	1
+10018 Music Video Signed Artist	1
+10018 Still Photography	12
+10018 Television	1
+10018 Television Cable-episodic	28
+10018 Television Cable-other	2
+10018 Television Episodic series	17
+10018 Television Pilot	3
+10018 Television Talk Show	1
+10018 Television Variety	4
+10018 Theater Theater	16
+10018 WEB	13
+10019 Commercial Commercial	24
+10019 Commercial Industrial/Corporate	3
+10019 Commercial Promo	3
+10019 Commercial Short	1
+10019 Documentary	2
+10019 Film Feature	31
+10019 Film Short	8
+10019 Music Video	1
+10019 Still Photography	14
+10019 Television	5
+10019 Television Cable-daily	1
+10019 Television Cable-episodic	37
+10019 Television Cable-other	6
+10019 Television Episodic series	55
+10019 Television Made for TV/mini-series	3
+10019 Television Morning Show	1
+10019 Television News	2
+10019 Television Pilot	18
+10019 Television Reality	19
+10019 Television Special/Awards Show	11
+10019 Television Talk Show	2
+10019 Television Variety	7
+10019 Theater Theater	209
+10019 WEB	17
+10020 Commercial Commercial	4
+10020 Commercial Promo	3
+10020 Film Feature	6
+10020 Music Video	1
+10020 Still Photography	1
+10020 Television	2
+10020 Television Cable-episodic	6
+10020 Television Cable-other	4
+10020 Television Episodic series	8
+10020 Television Made for TV/mini-series	2
+10020 Television Morning Show	9
+10020 Television News	3
+10020 Television Special/Awards Show	5
+10020 Television Talk Show	2
+10020 Television Variety	1
+10020 Theater Theater	23
+10020 WEB	2
+10021 Commercial Commercial	4
+10021 Commercial Promo	1
+10021 Documentary	1
+10021 Film Feature	8
+10021 Film Short	1
+10021 Still Photography	30
+10021 Student Student Film	1
+10021 Television	1
+10021 Television Cable-episodic	2
+10021 Television Episodic series	32
+10021 Television Made for TV/mini-series	2
+10021 Television Special/Awards Show	1
+10021 Television Talk Show	1
+10021 WEB	7
+10022 Commercial Commercial	13
+10022 Commercial Promo	2
+10022 Commercial Short	1
+10022 Documentary	2
+10022 Film Feature	33
+10022 Film Short	7
+10022 Music Video Signed Artist	1
+10022 Still Photography	17
+10022 Television	1
+10022 Television Cable-episodic	17
+10022 Television Cable-other	3
+10022 Television Episodic series	34
+10022 Television Made for TV/mini-series	2
+10022 Television Pilot	9
+10022 Television Special/Awards Show	5
+10022 Television Variety	1
+10022 Theater Theater	4
+10022 WEB	9
+10023 Commercial Commercial	12
+10023 Commercial Industrial/Corporate	8
+10023 Film Feature	20
+10023 Film Short	3
+10023 Music Video	1
+10023 Music Video Signed Artist	2
+10023 Still Photography	13
+10023 Television	13
+10023 Television Cable-episodic	12
+10023 Television Cable-other	3
+10023 Television Episodic series	35
+10023 Television Made for TV/mini-series	3
+10023 Television Morning Show	20
+10023 Television News	2
+10023 Television Pilot	3
+10023 Television Reality	1
+10023 Television Special/Awards Show	1
+10023 Television Talk Show	9
+10023 Television Variety	2
+10023 Theater Theater	156
+10023 WEB	5
+10024 Commercial Commercial	7
+10024 Documentary	3
+10024 Film Feature	5
+10024 Film Short	1
+10024 Music Video Signed Artist	1
+10024 Still Photography	10
+10024 Television Cable-episodic	8
+10024 Television Children	3
+10024 Television Episodic series	33
+10024 Television Made for TV/mini-series	5
+10024 Television Pilot	6
+10024 Television Special/Awards Show	1
+10024 Theater Theater	1
+10024 WEB	1
+10025 Commercial Commercial	1
+10025 Documentary	1
+10025 Film Feature	3
+10025 Still Photography	10
+10025 Television Cable-episodic	12
+10025 Television Episodic series	32
+10025 Television Made for TV/mini-series	9
+10025 Television Pilot	5
+10025 Television Special/Awards Show	5
+10025 WEB	1
+10026 Commercial Commercial	4
+10026 Film Feature	9
+10026 Still Photography	1
+10026 Television Cable-episodic	17
+10026 Television Episodic series	16
+10026 Television Made for TV/mini-series	10
+10026 Television News	1
+10026 WEB	2
+10027 Commercial Commercial	6
+10027 Documentary	2
+10027 Film Feature	30
+10027 Film Short	1
+10027 Music Video	1
+10027 Still Photography	17
+10027 Television Cable-episodic	31
+10027 Television Episodic series	43
+10027 Television Made for TV/mini-series	1
+10027 Television Morning Show	1
+10027 Television Pilot	5
+10027 Television Special/Awards Show	5
+10027 Theater Theater	7
+10027 WEB	5
+10028 Commercial Commercial	7
+10028 Documentary	2
+10028 Film Feature	12
+10028 Still Photography	2
+10028 Television Cable-episodic	3
+10028 Television Cable-other	1
+10028 Television Episodic series	13
+10028 Television Pilot	2
+10028 Television Special/Awards Show	1
+10029 Film Feature	16
+10029 Still Photography	5
+10029 Student Student Film	1
+10029 Television Cable-episodic	10
+10029 Television Episodic series	28
+10029 Television Made for TV/mini-series	13
+10029 Television Pilot	6
+10029 Television Talk Show	1
+10029 WEB	3
+10030 Film Feature	1
+10030 Music Video	1
+10030 Still Photography	2
+10030 Television Cable-episodic	12
+10030 Television Episodic series	11
+10030 Television Made for TV/mini-series	1
+10030 Television Pilot	2
+10030 Theater Theater	2
+10030 WEB	5
+10031 Commercial Commercial	3
+10031 Film Feature	33
+10031 Film Short	1
+10031 Music Video	1
+10031 Music Video Signed Artist	1
+10031 Still Photography	8
+10031 Television Cable-episodic	15
+10031 Television Episodic series	49
+10031 Television Made for TV/mini-series	1
+10031 Television Pilot	2
+10031 Television Special/Awards Show	1
+10031 Television Variety	1
+10031 WEB	4
+10032 Commercial Commercial	2
+10032 Film Feature	24
+10032 Music Video Signed Artist	1
+10032 Still Photography	2
+10032 Television	2
+10032 Television Cable-episodic	28
+10032 Television Episodic series	14
+10032 Television Made for TV/mini-series	2
+10032 WEB	8
+10033 Commercial Commercial	4
+10033 Documentary	2
+10033 Film Feature	13
+10033 Television	1
+10033 Television Cable-episodic	6
+10033 Television Episodic series	9
+10033 Theater Theater	7
+10033 WEB	3
+10034 Commercial Commercial	1
+10034 Film Feature	1
+10034 Television Cable-episodic	1
+10034 Television Episodic series	5
+10034 WEB	1
+10035 Commercial Commercial	6
+10035 Film Feature	3
+10035 Music Video Signed Artist	2
+10035 Still Photography	4
+10035 Television Cable-episodic	4
+10035 Television Episodic series	8
+10036 Commercial Commercial	17
+10036 Commercial Industrial/Corporate	4
+10036 Commercial Promo	3
+10036 Commercial Short	1
+10036 Documentary	1
+10036 Film Feature	47
+10036 Film Short	2
+10036 Music Video	1
+10036 Still Photography	16
+10036 Television	2
+10036 Television Cable-episodic	29
+10036 Television Cable-other	6
+10036 Television Episodic series	35
+10036 Television Made for TV/mini-series	7
+10036 Television Morning Show	30
+10036 Television News	204
+10036 Television Pilot	5
+10036 Television Reality	3
+10036 Television Special/Awards Show	7
+10036 Television Talk Show	2
+10036 Television Variety	4
+10036 Theater Theater	78
+10036 WEB	12
+10037 Film Feature	3
+10037 Still Photography	1
+10037 Television Cable-episodic	8
+10037 Television Episodic series	1
+10037 WEB	1
+10038 Commercial Commercial	12
+10038 Commercial Promo	1
+10038 Film Feature	18
+10038 Still Photography	10
+10038 Television Cable-episodic	16
+10038 Television Episodic series	36
+10038 Television Pilot	7
+10038 Theater Theater	6
+10038 WEB	4
+10039 Film Feature	5
+10039 Still Photography	3
+10039 Television Cable-episodic	1
+10039 Television Cable-other	1
+10039 Television Episodic series	3
+10039 Television Pilot	7
+10039 WEB	2
+10040 Television Cable-episodic	3
+10040 Television Episodic series	8
+10040 WEB	1
+10041 Commercial Commercial	2
+10041 Film Feature	1
+10041 Still Photography	3
+10041 Television Cable-episodic	1
+10041 Television Episodic series	3
+10044 Commercial Commercial	1
+10044 Film Feature	1
+10044 Television Cable-episodic	2
+10044 Television Episodic series	1
+10044 Television Pilot	3
+10045 Film Feature	1
+10045 Still Photography	1
+10045 Television Cable-episodic	5
+10045 Television Episodic series	3
+10048 Commercial Commercial	8
+10048 Film Feature	2
+10048 Television Episodic series	3
+10065 Commercial Commercial	2
+10065 Commercial Promo	2
+10065 Documentary	2
+10065 Film Feature	17
+10065 Film Short	1
+10065 Still Photography	28
+10065 Television	4
+10065 Television Cable-episodic	12
+10065 Television Cable-other	2
+10065 Television Episodic series	24
+10065 Television Made for TV/mini-series	3
+10065 Television News	3
+10065 Television Special/Awards Show	3
+10065 Television Variety	1
+10065 Theater Theater	3
+10065 WEB	6
+10069 Film Feature	2
+10069 Television Talk Show	1
+10075 Commercial Commercial	3
+10075 Film Feature	12
+10075 Film Short	1
+10075 Still Photography	15
+10075 Student Student Film	1
+10075 Television	1
+10075 Television Cable-episodic	2
+10075 Television Episodic series	18
+10075 Television Pilot	1
+10097 Theater Theater	1
+10103 Film Feature	2
+10103 Still Photography	2
+10103 Television Cable-episodic	3
+10103 Television Cable-other	2
+10103 Television Made for TV/mini-series	2
+10103 Television Special/Awards Show	1
+10105 Commercial Commercial	1
+10105 Film Feature	4
+10105 Music Video	1
+10105 Still Photography	1
+10105 Television	1
+10105 Television Cable-episodic	1
+10105 Television Episodic series	4
+10105 Television Made for TV/mini-series	1
+10105 Television News	197
+10105 Television Talk Show	1
+10105 WEB	1
+10106 Commercial Commercial	1
+10106 Commercial Promo	1
+10106 Film Feature	1
+10106 Music Video	1
+10106 Still Photography	1
+10106 Television Cable-episodic	2
+10106 Television Special/Awards Show	1
+10106 Theater Theater	47
+10110 Still Photography	2
+10111 Commercial Commercial	1
+10111 Commercial Promo	2
+10111 Film Feature	2
+10111 Television Cable-episodic	3
+10112 Commercial Commercial	1
+10112 Commercial Promo	3
+10112 Television	1
+10112 Television Cable-other	4
+10112 Television News	1
+10112 Television Special/Awards Show	3
+10112 Television Talk Show	1
+10112 Television Variety	2
+10112 Theater Theater	1
+10115 Commercial Commercial	3
+10115 Television Cable-episodic	1
+10118 Still Photography	3
+10118 Television Cable-episodic	1
+10119 Film Feature	1
+10119 Music Video	1
+10119 Still Photography	2
+10119 Television	1
+10119 Television Cable-episodic	1
+10119 Television Episodic series	2
+10119 Television Talk Show	1
+10119 WEB	1
+10120 Film Feature	1
+10120 Still Photography	1
+10121 Commercial Promo	1
+10121 Music Video Signed Artist	1
+10121 Still Photography	4
+10121 Television	1
+10121 Television Cable-episodic	3
+10121 Television Episodic series	3
+10121 Television Special/Awards Show	6
+10121 Theater Theater	125
+10121 WEB	1
+10128 Commercial Commercial	9
+10128 Documentary	2
+10128 Film Feature	3
+10128 Music Video Independent Artist	1
+10128 Still Photography	9
+10128 Television	1
+10128 Television Cable-episodic	8
+10128 Television Episodic series	31
+10128 Television Pilot	3
+10128 Television Special/Awards Show	1
+10151 Television Episodic series	1
+10152 Commercial Commercial	2
+10152 Commercial Promo	1
+10152 Film Feature	2
+10152 Music Video Signed Artist	1
+10152 Still Photography	4
+10152 Television Cable-episodic	2
+10152 Television Episodic series	7
+10152 Television Pilot	5
+10152 WEB	2
+10154 Film Feature	2
+10154 Television Episodic series	2
+10158 Television Episodic series	1
+10165 Film Feature	7
+10165 Still Photography	1
+10165 Television Cable-episodic	3
+10165 Television Episodic series	1
+10165 Theater Theater	1
+10167 Commercial Commercial	1
+10167 Commercial Promo	1
+10167 Television	1
+10167 Television Cable-episodic	1
+10167 Television Episodic series	7
+10170 Commercial Commercial	1
+10170 Still Photography	1
+10170 Television Episodic series	4
+10171 Commercial Commercial	1
+10171 Commercial Promo	1
+10171 Film Feature	1
+10171 Music Video Signed Artist	1
+10171 Still Photography	3
+10171 Television	1
+10171 Television Cable-episodic	2
+10171 Television Episodic series	7
+10172 Commercial Commercial	1
+10172 Commercial Promo	1
+10172 Film Feature	1
+10172 Still Photography	1
+10172 Television	1
+10172 Television Cable-episodic	2
+10172 Television Episodic series	7
+10173 Film Feature	3
+10173 Still Photography	1
+10173 Television Cable-episodic	1
+10173 Television Episodic series	4
+10173 Television Made for TV/mini-series	1
+10173 Theater Theater	1
+10173 WEB	1
+10174 Commercial Commercial	1
+10174 Still Photography	1
+10174 Television Episodic series	1
+10175 Still Photography	2
+10177 Commercial Commercial	1
+10177 Commercial Promo	1
+10177 Television	1
+10177 Television Cable-episodic	1
+10177 Television Episodic series	7
+10178 Film Feature	2
+10178 Television	1
+10178 Television Episodic series	1
+10271 Film Feature	1
+10271 WEB	1
+10278 Film Feature	2
+10278 Still Photography	1
+10278 Television Cable-episodic	1
+10278 Television Episodic series	2
+10278 Television Pilot	1
+10280 Television Cable-episodic	3
+10280 Television Episodic series	3
+10281 Television	1
+10281 Television Cable-episodic	1
+10281 Television Episodic series	2
+10282 Commercial Commercial	1
+10282 Still Photography	1
+10282 Television	1
+10282 Television Cable-episodic	5
+10282 Television Episodic series	8
+10282 Television Game show	1
+10282 Television News	2
+10282 Theater Theater	1
+10310 Commercial Commercial	1
+10454 Commercial Commercial	2
+10454 Film Feature	1
+10454 Television Cable-episodic	6
+10454 Television Episodic series	1
+10454 Television Made for TV/mini-series	3
+10455 Film Feature	2
+10457 Television Episodic series	1
+10457 WEB	1
+10458 Film Feature	2
+10458 Television Episodic series	1
+10459 Television Cable-episodic	1
+10460 Television Made for TV/mini-series	1
+10462 Commercial Commercial	1
+10462 Film Feature	1
+10463 Film Feature	1
+10465 Television Cable-episodic	1
+10468 Film Feature	1
+10472 Television Cable-episodic	1
+10473 Television Cable-episodic	1
+10473 Television Episodic series	1
+10474 Still Photography	1
+10474 Television Cable-episodic	1
+11038 Film Feature	1
+11101 Commercial Commercial	2
+11101 Film Feature	2
+11101 Still Photography	2
+11101 Television	1
+11101 Television Cable-episodic	9
+11101 Television Cable-other	1
+11101 Television Episodic series	15
+11101 Television Made for TV/mini-series	1
+11101 Television Pilot	1
+11106 Commercial Commercial	2
+11106 Television	1
+11106 Television Cable-episodic	2
+11106 Television Episodic series	4
+11106 Television Pilot	3
+11109 Television Cable-episodic	1
+11201 Commercial Commercial	11
+11201 Commercial Promo	2
+11201 Film Feature	6
+11201 Film Short	1
+11201 Still Photography	9
+11201 Television Cable-episodic	3
+11201 Television Episodic series	4
+11201 Television Pilot	4
+11201 WEB	4
+11204 Still Photography	1
+11205 Commercial Commercial	1
+11205 Television Episodic series	2
+11206 Television Episodic series	1
+11207 Television Episodic series	1
+11208 Still Photography	1
+11209 Television Cable-episodic	1
+11211 Commercial Commercial	3
+11211 Documentary	1
+11211 Film Feature	2
+11211 Music Video Signed Artist	1
+11211 Still Photography	1
+11211 Television Episodic series	5
+11211 Television Made for TV/mini-series	1
+11213 Still Photography	1
+11215 Commercial Commercial	1
+11215 WEB	1
+11216 Commercial Commercial	1
+11216 WEB	1
+11217 Commercial Commercial	1
+11217 Still Photography	1
+11217 Television Cable-episodic	2
+11217 Television Episodic series	2
+11217 Theater Theater	1
+11218 Still Photography	1
+11219 Commercial Commercial	1
+11219 Film Feature	1
+11220 Commercial Commercial	1
+11221 Television Cable-episodic	1
+11222 Commercial Commercial	3
+11222 Documentary	1
+11222 Film Feature	1
+11222 Music Video	1
+11222 Still Photography	2
+11222 Television Cable-episodic	5
+11222 Television Episodic series	13
+11222 Television Pilot	1
+11225 Television Cable-episodic	1
+11226 Commercial Commercial	1
+11226 Television Episodic series	1
+11226 WEB	1
+11231 Film Feature	1
+11231 Still Photography	3
+11231 Television Cable-episodic	2
+11232 Commercial Commercial	1
+11237 Film Feature	1
+11237 Television Episodic series	2
+11238 Television Episodic series	1
+11249 Commercial Commercial	1
+11249 Television Episodic series	3
+11249 Television Made for TV/mini-series	1
+11357 Commercial Commercial	2
+11366 Commercial Commercial	1
+11375 Television Episodic series	3
+11378 Commercial Commercial	1
+11378 Television Episodic series	1
+11385 Film Feature	1
+11385 Film Short	1
+11385 Television Cable-episodic	1
+11385 Television Episodic series	3
+11414 Still Photography	1
+11415 Television Episodic series	1
+11420 Television Episodic series	1
+11432 Commercial Commercial	1
+11435 Television Episodic series	1
+N/A Television Episodic series	1
