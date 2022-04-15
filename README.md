@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project/code leverages Hadoop MapReduce to analyze the data provided by NYC OpenData in their [Film Permit](https://data.cityofnewyork.us/City-Government/Film-Permits/tg4x-b46p) data set, which provides information about film permit requests received. In particular, the code here is used in conjunction with Megan Chen's analysis on NYC OpenData's [Property Valuation and Assessment Data](https://data.cityofnewyork.us/City-Government/Property-Valuation-and-Assessment-Data/yjxr-fw8i). The goal of combining information from these two data sets is to see if there is a correlation between number of film permits in a given zip code and the average property valuation. This project looks specifically at Manhattan in 2018.
+This project/code leverages Hadoop MapReduce to analyze the data provided by NYC OpenData in their [Film Permit](https://data.cityofnewyork.us/City-Government/Film-Permits/tg4x-b46p) data set, which provides information about film permit requests received. In particular, the code here is used in conjunction with Megan Chen's analysis on NYC OpenData's [Property Valuation and Assessment Data](https://data.cityofnewyork.us/City-Government/Property-Valuation-and-Assessment-Data/yjxr-fw8i). Check our her work [here](https://github.com/megalo999/property-valuations-nyc). The goal of combining information from these two data sets is to see if there is a correlation between number of film permits in a given zip code and the average property valuation. This project looks specifically at Manhattan in 2018.
 
 ## Importance
 
