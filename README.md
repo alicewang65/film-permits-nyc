@@ -61,4 +61,7 @@ Note: This process assumes knowledge of compiling and running Hadoop MapReduce j
         1. Your output should match the results in [filmpermits_clean.txt](./filmpermits_clean.txt)
     3. Finally, count the number of records in the cleaned data set by again running [countRecs.jar](./countlines/countRecs.jar).
         1. Your output should match the results in [cleancount](./output/cleancount)
-6. COMBINING DATSET RESULTS --- TBD
+6. To combine both the film permit and average building valuation results, follow the steps below:
+    1. Make sure the zip code count of film permits is loaded in HDFS. In other words, make sure [zipoutput](./output/zipoutput) exists in HDFS.
+    2. Make sure the average valuation of buildings by zip codes is loaded in HDFS. [TBD INCLUDE FILE]
+    3. Follow the commands in [hivecommands.txt](./hivecommands.txt) to load the data into Hive and execute the appropriate join queries.
