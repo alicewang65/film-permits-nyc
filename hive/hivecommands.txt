@@ -1,0 +1,43 @@
+0. Set-up
+Make sure you know where the data files for the zip code output and average building valuation
+output are located on HDFS. Make sure you're connected to peel as well.
+
+1. Connect to Hive from peel
+beeline
+!connect jdbc:hive2://hm-1.hpc.nyu.edu:10000/
+[At this point you'll be prompted to enter your username and password]
+use <net_id>;
+
+2. Create an external table for the film permit count output
+CREATE EXTERNAL TABLE filmpermits(zipcode INT, count INT) COMMENT "film permit info" 
+ROW FORMAT DELIMITED FIELDS TERMINATED BY "\t" STORED AS TEXTFILE LOCATION "/user/YOURNETID/<LOCATION OF FILE IN HDFS>";
+
+3. Create an external table for the average valuation output
+CREATE EXTERNAL TABLE avgvaluations(zipcode INT, valuation STRING) COMMENT "average building valuation info" 
+ROW FORMAT DELIMITED FIELDS TERMINATED BY "\t" STORED AS TEXTFILE LOCATION "/user/YOURNETID/<LOCATION OF FILE IN HDFS>";
+
+4. Check to make sure tables were correctly created
+describe filmpermits;
+describe avgvaluations;
+
+5. Execute join query on the tables
+SELECT filmpermits.zipcode, filmpermits.count, avgvaluations.valuation 
+FROM filmpermits JOIN avgvaluations ON (filmpermits.zipcode = avgvaluations.zipcode);
+
+6. If you want to save the output the join query from step (5) to HDFS, run the command below (Note:
+The columns are delimted by a SOH character, so it ends up not being entirely useful, unless you
+do a find and replace on those characters with a comma, which is quite easy):
+
+insert overwrite directory "/user/YOURNETID/<DIRECTORY WILL OVERWRITE>"
+SELECT filmpermits.zipcode, filmpermits.count, avgvaluations.valuation 
+FROM filmpermits JOIN avgvaluations ON (filmpermits.zipcode = avgvaluations.zipcode);
+
+7. If you want to bring the results of the join query from step (5) to peel (as a CSV file), 
+run the following command from hlog (Note: You end up getting all the output, including logging info,
+however, you can easily delete those lines manually, leaving your data):
+
+hive -e 'use YOURNETID; SELECT filmpermits.zipcode, filmpermits.count, avgvaluations.valuation FROM filmpermits JOIN avgvaluations ON (filmpermits.zipcode = avgvaluations.zipcode);' | sed 's/[\t]/,/g'  > combinedoutput.csv
+
+8. Whether you execute step 6 or 7, you get the same results! After running step 6, your
+results whould look like that in combined_hdfs.csv. After running step 7, your output
+should look like that in combined_hlog.csv.
