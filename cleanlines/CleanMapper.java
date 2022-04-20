@@ -51,7 +51,7 @@ public class CleanMapper extends Mapper<Object, Text, Text, Text> {
             }
         }
         // check for zip
-        if (!(fields[13].isEmpty())) {
+        if (!(fields[13].isEmpty()) && !fields[13].equals("N/A")) {
             zip = fields[13];
         }
 
