@@ -33,7 +33,7 @@ Settings and environment are significant parts of movies, TV shows and commercia
     * inputs: original data set => [filmpermits.csv](./filmpermits.csv), cleaned data set => [filmpermits_clean.csv](./filmpermits_clean.csv)
     * outputs: number of lines in a given input file
     * result (original data set): [originalcount](./output/originalcount) => 74453
-    * result (cleaned data set): [cleancount](./output/cleancount) => 4120
+    * result (cleaned data set): [cleancount](./output/cleancount) => 4119
 * [countzipcodes](./countzipcodes) - the files (java, class and jar) in this folder count the number of film permits per zip code of the cleaned data set
     * input: cleaned data set => [filmpermits_clean.csv](./filmpermits_clean.csv)
     * outputs: number of film permits per zip code of the cleaned data set
