@@ -1,11 +1,5 @@
 # Film Permits in NYC
 
-## STATUS UPDATE (4/15)
-
-At this point, almost all of the data processing and analysis is complete. The final step is to execute the join queries with Hive to combine the zip code and building valuation data. The commands have been written, but have yet to be run for the moment. 
-
-After that, the only thing is to create a visualization of our results, write our research paper and finalize our presentation.
-
 ## Introduction
 
 This project/code leverages Hadoop MapReduce to analyze the data provided by NYC OpenData in their [Film Permit](https://data.cityofnewyork.us/City-Government/Film-Permits/tg4x-b46p) data set, which provides information about film permit requests received. In particular, the code here is used in conjunction with Megan Chen's analysis on NYC OpenData's [Property Valuation and Assessment Data](https://data.cityofnewyork.us/City-Government/Property-Valuation-and-Assessment-Data/yjxr-fw8i). Check our her work [here](https://github.com/megalo999/property-valuations-nyc). The goal of combining information from these two data sets is to see if there is a correlation between number of film permits in a given zip code and the average property valuation. This project looks specifically at Manhattan in 2018.
